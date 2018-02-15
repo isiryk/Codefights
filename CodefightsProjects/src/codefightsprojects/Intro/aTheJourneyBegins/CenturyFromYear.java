@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package codefightsprojects.Intro;
+package codefightsprojects.Intro.aTheJourneyBegins;
 
 /**
  * Task: Given a year, return the century it is in. The first 

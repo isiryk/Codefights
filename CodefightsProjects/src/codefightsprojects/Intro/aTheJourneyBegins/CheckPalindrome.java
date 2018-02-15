@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package codefightsprojects.Intro;
+package codefightsprojects.Intro.aTheJourneyBegins;
 
 /**
  * Task: Given the string, check if it is a palindrome.

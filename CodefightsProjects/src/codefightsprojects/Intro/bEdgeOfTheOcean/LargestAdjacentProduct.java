@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package codefightsprojects.Intro;
+package codefightsprojects.Intro.bEdgeOfTheOcean;
 
 /**
  * Task: Given an array of integers, find the pair of adjacent elements

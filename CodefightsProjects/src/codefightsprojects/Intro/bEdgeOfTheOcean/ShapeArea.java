@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package codefightsprojects.Intro;
+package codefightsprojects.Intro.bEdgeOfTheOcean;
 
 /**
  * Task: Below we will define an n-interesting polygon. Your task is to find 

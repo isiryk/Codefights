@@ -1,5 +1,5 @@
 
-package codefightsprojects.Intro;
+package codefightsprojects.Intro.aTheJourneyBegins;
 
 /**
  * Task: Write a function that returns the sum of two numbers.
